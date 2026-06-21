@@ -305,7 +305,7 @@ export default function Page() {
         <div className="wrap">
           <p className="footer__legal">{LEGAL}</p>
           <div className="footer__copy">
-            <span>© {new Date().getFullYear()} Hồng Hạc City. Bảo lưu mọi quyền.</span>
+            <span>© {new Date().getFullYear()} Hồng Hạc City - Tien Vo - Phu My Hung. Design by David Nguyen - Wiscosin - USA. All rights reserved.</span>
             <span>{SITE.zone}</span>
           </div>
         </div>
